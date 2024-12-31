@@ -1,0 +1,4 @@
+github.com/alexaandru/go-sitter-forest/nix v1.9.1 h1:CeOgOd/fq5SOTosA27RbrExsVRjFcL7+IwABBn51Gpg=
+github.com/alexaandru/go-sitter-forest/nix v1.9.1/go.mod h1:nbtvKRD56GICG+j92DNSOEXwIp8gD4dh/3kXz3kd+5o=
+github.com/alexaandru/go-tree-sitter-bare v1.9.2 h1:Lpm9cteCuwKfPcvkDwo4eqNVRyFhPjPmCsJwCQpvODI=
+github.com/alexaandru/go-tree-sitter-bare v1.9.2/go.mod h1:5gx59gMtIPOLlnrkpP1KdREczENWSpgKKBAaXsyPumE=
